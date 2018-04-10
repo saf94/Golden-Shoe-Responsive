@@ -1,0 +1,27 @@
+.nav {
+    background-color: #FFF !important
+}
+
+.jumbotron {
+    color: burlywood;
+    background-image: url("jumbotron-img-1.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 600px;
+}
+
+.subHeading {
+    text-align: center;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-title {
+    margin-top: 10px;
+}
+
+img {
+    width: 70%;
+}
