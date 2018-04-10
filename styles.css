@@ -25,3 +25,17 @@
 img {
     width: 70%;
 }
+
+.seeMore {
+    text-align: right;
+}
+
+.footer {
+    height: 100px;
+}
+
+.socialIcons {
+    text-align: center;
+    font-size: 3em;
+    padding-top: 20px;
+}
