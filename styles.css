@@ -39,3 +39,7 @@ img {
     font-size: 3em;
     padding-top: 20px;
 }
+
+.card {
+    border: none !important;
+}
