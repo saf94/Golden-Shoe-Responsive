@@ -1,0 +1,63 @@
+.nav {
+    background-color: #FFF !important
+}
+
+.jumbotron {
+    color: burlywood;
+    background-image: url("jumbotron-img-1.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 600px;
+}
+
+div {
+    /* border: solid 3px black !important; */
+}
+
+form {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+.subHeading {
+    text-align: center;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-title {
+    margin-top: 10px;
+}
+
+img {
+    width: 70%;
+}
+
+.seeMore {
+    text-align: right;
+}
+
+.footer {
+    height: 100px;
+    width: 100vw;
+    margin-left: -15px;
+}
+
+.socialIcons {
+    text-align: center;
+    font-size: 3em;
+    padding-top: 20px;
+}
+
+.card {
+    border: none !important;
+}
+
+button {
+    margin-bottom: 10px !important;
+}
