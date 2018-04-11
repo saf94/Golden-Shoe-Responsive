@@ -2,12 +2,12 @@
     background-color: #FFF !important
 }
 
-.jumbotron {
-    color: burlywood;
-    background-image: url("jumbotron-img-1.jpg");
-    background-size: cover;
-    background-position: center center;
-    height: 600px;
+.navbar-light .navbar-brand {
+    color: #e0b48e;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #e0b48e;
 }
 
 div {
