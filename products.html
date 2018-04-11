@@ -244,11 +244,11 @@
             }
 
         $( window ).resize(function() {
-            if($(window).width() < 993 && $( "#multiCollapse" ).hasClass( "show" )) {
+            if($(window).width() < 993 && $(window).width() > 576 && $( "#multiCollapse" ).hasClass( "show" )) {
                 $( "#multiCollapse" ).removeClass( "show" )
             }
 
-            if($(window).width() > 993 && !$( "#multiCollapse" ).hasClass( "show" )) {
+            if($(window).width() > 993 && $(window).width() > 576 && !$( "#multiCollapse" ).hasClass( "show" )) {
                 $( "#multiCollapse" ).addClass( "show" )
             }
         });
