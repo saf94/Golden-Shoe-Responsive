@@ -10,19 +10,11 @@
     color: #e0b48e;
 }
 
-div {
-    /* border: solid 3px black !important; */
-}
-
 form {
     text-align: center;
 }
 
 h5 {
-    text-align: center;
-}
-
-.subHeading {
     text-align: center;
 }
 
@@ -36,10 +28,6 @@ h5 {
 
 img {
     width: 70%;
-}
-
-.seeMore {
-    text-align: right;
 }
 
 .footer {
